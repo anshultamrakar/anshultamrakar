@@ -22,7 +22,7 @@
 
 
 
-- 🔭 I am self taught Web developer coming form a non CS branch  .
+- 🔭 I am self taught Web developer coming form a non CS branch.
 - 📫 How to reach me: [Twitter - @anshul487](https://twitter.com/anshul487), [Linkedin - Anshul Tamrakar](https://www.linkedin.com/in/anshul-tamrakar-51ba38166/)
 - ⚡ Fun fact: Anybody can bribe me by offering pizza 🍕 .
 - 💭 Let's get to know each other 
@@ -46,7 +46,7 @@
 ---
 
 <h3>Where to find me</h3>
-<p align="center"><a href="https://github.com/DivyanshTamrakar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/anshul-tamrakar-51ba38166/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="anshultamrakar487@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/anshul487" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/anshul%20tamrakar%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<p align="center"><a href="https://github.com/anshultamrakar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/anshul-tamrakar-51ba38166/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="anshultamrakar487@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/anshul487" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/anshul%20tamrakar%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 </p>
 
