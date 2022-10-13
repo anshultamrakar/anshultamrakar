@@ -22,7 +22,7 @@
 
 
 
-- 🔭 I am self taught Web developer coming form a non CS branch.
+-I build projects to learn how code works. And while I am not coding, I enjoy writing poetry and stories, playing the piano, and cooking delicious meals.
 - 📫 How to reach me: [Twitter - @anshul487](https://twitter.com/anshul487), [Linkedin - Anshul Tamrakar](https://www.linkedin.com/in/anshul-tamrakar-51ba38166/)
 - ⚡ Fun fact: Anybody can bribe me by offering pizza 🍕 .
 - 💭 Let's get to know each other 
