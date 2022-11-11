@@ -2,15 +2,6 @@
    <h1> ### Hello and Welcome 👋, I'm Anshul Tamrakar</h1>
 </div>
 
-<a href="https://twitter.com/anshul487">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/anshul-tamrakar-51ba38166/">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/anshultamrakar">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 
 <br/>
 <br/>
@@ -22,6 +13,20 @@
 - 👨🏽‍🎓 I build projects to learn how code works. 
 - ⚡ Fun fact: While I am not coding, I enjoy listening to music , reading fun articles on internet , and exploring different street food.
 - 📚 I'm constantly learning new skills and _striving for progress_
+
+
+### 📬 Connect with me:
+
+
+<a href="https://twitter.com/anshul487">
+  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/anshul-tamrakar-51ba38166/">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/anshultamrakar">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 
 
