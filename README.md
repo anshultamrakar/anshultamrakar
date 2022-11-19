@@ -24,13 +24,6 @@
 - 📚 I'm constantly learning new skills and _striving for progress_
 
 
-### 📬 Connect with me:
-
-
-
-
-
-
 
 ### 💻 Programming Languages:
 <img align="left" target="_blank" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
