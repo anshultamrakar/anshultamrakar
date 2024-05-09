@@ -1,5 +1,5 @@
 <div align="center">
-   <h1> ## Hello and Welcome 👋, I'm Anshul Tamrakar</h1>
+   <h1>Hello and Welcome 👋, I'm Anshul Tamrakar</h1>
 </div>
 
 <a href="https://twitter.com/anshul487">
