@@ -17,7 +17,7 @@
 
 
 
-### Front End Web Enginner
+### Front End Web Developer
 
 - 👨🏽‍🎓 I build projects to learn how code works. 
 - ⚡ Fun fact: While I am not coding, I enjoy listening to music , reading fun articles on internet , and exploring different street food.
